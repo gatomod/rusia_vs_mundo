@@ -2,7 +2,7 @@
 ###  RUSIA VS. MUNDO (MIT Lic.) ###
 ###################################
 # No garantizo que el ingles este bien ni que esto funcione xd
-# Puede que lo suba a GitHub
+# Ignoren cualquier TODO que encuentren
 # Rusia vs. Mundo
 
 # TODO poder elegir país
