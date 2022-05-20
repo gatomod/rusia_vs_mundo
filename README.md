@@ -1,9 +1,11 @@
-# rusia vs. mundo
+# 🇺🇦 Programé este juego un año antes de que empezase la guerra contra Ucrana. PAZ
+
+## rusia vs. mundo
 🎮 Un simple juego en CLI para conquistar el mundo
 
 Link de descarga: [Click aquí](https://github.com/gatomo-oficial/rusia_vs_mundo/releases/download/1/juego.py)
 
-## Cómo jugar?
+### Cómo jugar?
 Para jugar necesitas tener descargado Python 3.x
 
 Para iniciar escriba lo siguiente:
@@ -15,4 +17,4 @@ cd Downloads
 python3 juego.py
 ```
 
-# Espero que tengas un buen rato jugando ;D
+## Espero que tengas un buen rato jugando ;D
