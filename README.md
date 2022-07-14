@@ -1,4 +1,4 @@
-# 🇺🇦 Programé este juego un año antes de que empezase la guerra contra Ucrana. PAZ
+# 🇺🇦 Programé este juego un año antes de que empezase la guerra contra Ucrania. PAZ
 
 ## rusia vs. mundo
 🎮 Un simple juego en CLI para conquistar el mundo
